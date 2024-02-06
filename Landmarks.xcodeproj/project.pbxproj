@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4C4CA2632B724F5D00C59643 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C4CA2622B724F5D00C59643 /* MapView.swift */; };
 		4CEE3F952B6FDF44008A3A77 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CEE3F942B6FDF43008A3A77 /* CircleImage.swift */; };
 		4CF89EFC2B6CCA170031CA80 /* LandmarksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF89EFB2B6CCA170031CA80 /* LandmarksApp.swift */; };
 		4CF89EFE2B6CCA170031CA80 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF89EFD2B6CCA170031CA80 /* ContentView.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4C4CA2622B724F5D00C59643 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		4CEE3F942B6FDF43008A3A77 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		4CF89EF82B6CCA170031CA80 /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4CF89EFB2B6CCA170031CA80 /* LandmarksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksApp.swift; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 				4CF89EFD2B6CCA170031CA80 /* ContentView.swift */,
 				4CF89EFF2B6CCA180031CA80 /* Assets.xcassets */,
 				4CEE3F942B6FDF43008A3A77 /* CircleImage.swift */,
+				4C4CA2622B724F5D00C59643 /* MapView.swift */,
 				4CF89F012B6CCA180031CA80 /* Preview Content */,
 			);
 			path = Landmarks;
@@ -261,6 +264,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4CF89EFE2B6CCA170031CA80 /* ContentView.swift in Sources */,
+				4C4CA2632B724F5D00C59643 /* MapView.swift in Sources */,
 				4CF89EFC2B6CCA170031CA80 /* LandmarksApp.swift in Sources */,
 				4CEE3F952B6FDF44008A3A77 /* CircleImage.swift in Sources */,
 			);
